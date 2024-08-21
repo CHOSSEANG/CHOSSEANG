@@ -23,5 +23,14 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+Kotlin         19 hrs 17 mins  ███████████████████▒░░░░░   77.53 %
+Java           3 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+XML            1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+SQL            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+YAML           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+```
+
 <!--END_SECTION:waka-->
 
