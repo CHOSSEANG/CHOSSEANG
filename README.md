@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 # SSEANG Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOSSEANG&layout=compact)
 ---
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
