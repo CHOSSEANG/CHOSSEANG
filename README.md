@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 # WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2057%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **저는 아침형 인간이에요. 🐤** 
@@ -82,5 +84,5 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 18:39:43 UTC
+ Last Updated on 11/11/2024 18:41:47 UTC
 <!--END_SECTION:waka-->
