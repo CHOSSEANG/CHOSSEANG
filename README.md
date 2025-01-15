@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 ## SSEANG Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOSSEANG&layout=compact)
 
-## Git streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CHOSSEANG&theme=dark)](https://git.io/streak-stats)
-
 # WakaTime Stats
 
 <!--START_SECTION:waka-->
