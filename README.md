@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 [![CHOSSEANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOSSEANG)](https://github.com/CHOSSEANG/github-readme-stats)
 
-![CHOSSEANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOSSEANG&show_icons=true&theme=radical)
-
 # SSEANG Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOSSEANG&layout=compact)
 
