@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 
 [![CHOSSEANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOSSEANG)](https://github.com/CHOSSEANG/github-readme-stats)
 
-# SSEANG Language
+## SSEANG Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOSSEANG&layout=compact)
+
+## Git streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CHOSSEANG&theme=dark)](https://git.io/streak-stats)
 
 # WakaTime Stats
 
