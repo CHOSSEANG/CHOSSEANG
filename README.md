@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOSSEANG&count_bg=%238AED3E&title_bg=%23495358&icon=electron.svg&icon_color=%23E7E7E7&title=CHOSSEANG&edge_flat=false)](https://hits.seeyoufarm.com)
 > github 활동 랭크
 
+[![CHOSSEANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOSSEANG)](https://github.com/CHOSSEANG/github-readme-stats)
+
 ![CHOSSEANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOSSEANG&show_icons=true&theme=radical)
 
 # SSEANG Language
