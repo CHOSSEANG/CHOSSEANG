@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 # WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **저는 아침형 인간이에요. 🐤** 
@@ -56,13 +58,13 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-WebStorm                 6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -78,5 +80,5 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:46:59 UTC
+ Last Updated on 04/11/2025 18:49:56 UTC
 <!--END_SECTION:waka-->
