@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 # WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
@@ -78,5 +80,5 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2026 19:29:43 UTC
+ Last Updated on 20/03/2026 19:13:22 UTC
 <!--END_SECTION:waka-->
