@@ -58,13 +58,13 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     0 secs              █████████████████████████   100.00 % 
+Java                     40 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            40 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -80,5 +80,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2026 20:18:28 UTC
+ Last Updated on 25/06/2026 20:30:41 UTC
 <!--END_SECTION:waka-->
